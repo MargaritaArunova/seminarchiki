@@ -110,8 +110,5 @@ git pull
 3. Работа с удаленным репозиторием:
    ```bash
    git remote add origin https://github.com/username/my_project.git
-   git push -u origin main 1
+   git push -u origin main 
    ```
-
-
-ллалаа
