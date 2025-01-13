@@ -112,5 +112,3 @@ git pull
    git remote add origin https://github.com/username/my_project.git
    git push -u origin main 
    ```
-
-опять накосячил  11
